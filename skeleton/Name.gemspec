@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 	spec.email		= ["rickmaya@gmail.com"]
 	spec.summary	= %q{Learning process}
 	spec.description	= %q{Making a file path gemspec}
-	spec.homepage	= "https://github.com/rickstylz01"
+	spec.homepage	= "https://github.com/rickstylz01/skeleton_folder.git"
 	spec.license	= "MIT"
 
 	spec.files		= ['lib/NAME.rb']
